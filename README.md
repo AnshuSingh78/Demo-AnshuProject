@@ -1,4 +1,5 @@
 # Demo-AnshuProject
+![logo](https://github.com/AnshuSingh78/Demo-AnshuProject/blob/main/GitHubBannerPNG.PNG)
 <h1 align="center">Hi 👋, I'm Kumari Anshu</h1>
 <h3 align="center">Passionate software engineer with a knack for crafting robust, scalable solutions. Proficient in multiple programming languages and frameworks, I thrive in collaborative environments where I can innovate and drive projects forward. Dedicated to continuous learning and leveraging technology to create meaningful impact.</h3>
 
